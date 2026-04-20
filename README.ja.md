@@ -1,10 +1,6 @@
+[![yamlsan](docs/header.svg)](https://github.com/izag8216/yamlsan)
+
 [English](./README.md) | [Japanese](./README.ja.md)
-
-<div align="center">
-  <img src="./docs/header.svg" alt="yamlsan -- YAML Frontmatter Schema Validator" width="800"/>
-</div>
-
-<br/>
 
 <div align="center">
 
