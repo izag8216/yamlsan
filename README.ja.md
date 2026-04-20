@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:1e1b4b,100:3b82f6&height=200&section=header&text=yamlsan&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=YAML%20Frontmatter%20Schema%20Validator&descSize=16&descAlignY=62&descColor=e0e7ff&fontAlign=left&descAlign=left)](https://github.com/izag8216/yamlsan)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=200&section=header&text=yamlsan&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=YAML%20Frontmatter%20Schema%20Validator&descSize=15&descAlignY=62&descColor=ffffffcc&fontAlign=left&descAlign=left)](https://github.com/izag8216/yamlsan)
 
 [English](./README.md) | [Japanese](./README.ja.md)
 
