@@ -1,0 +1,12 @@
+fields:
+  title:
+    type: string
+    required: true
+  status:
+    type: string
+    required: false
+    default: "draft"
+  priority:
+    type: integer
+    required: false
+    default: 3

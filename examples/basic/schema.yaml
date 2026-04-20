@@ -1,0 +1,15 @@
+fields:
+  title:
+    type: string
+    required: true
+  date:
+    type: date
+    required: true
+    pattern: "^\\d{4}-\\d{2}-\\d{2}$"
+  tags:
+    type: list
+    required: false
+  status:
+    type: string
+    required: true
+    allowed: ["draft", "published", "archived"]

@@ -1,0 +1,22 @@
+fields:
+  title:
+    type: string
+    required: true
+  created:
+    type: date
+    required: true
+    pattern: "^\\d{4}-\\d{2}-\\d{2}$"
+  status:
+    type: string
+    required: true
+    allowed: ["draft", "published", "archived"]
+  tags:
+    type: list
+    required: false
+    min_length: 1
+  priority:
+    type: integer
+    required: false
+    min_value: 1
+    max_value: 5
+    default: 3

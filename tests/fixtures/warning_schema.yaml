@@ -1,0 +1,8 @@
+fields:
+  title:
+    type: string
+    required: true
+  author:
+    type: string
+    required: false
+    severity: warning
